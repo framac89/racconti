@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg pink">
+<nav class="navbar navbar-expand-lg pink m-1 rounded">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">LOGO</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
