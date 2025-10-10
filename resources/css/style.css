@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playwrite+DE+SAS:wght@100..400&display=swap');
 
 .pink {
     background-color: pink;
@@ -8,4 +8,21 @@
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
+}
+
+.titolo {
+    font-family: "Playwrite DE SAS", cursive;
+}
+
+.sfondotitolo {
+    background-color: lightyellow;
+}
+
+.sfondoblog {
+    background: #ffffff;
+    background: radial-gradient(circle, rgba(255, 255, 255, 1) 5%, rgba(237, 237, 237, 1) 100%, rgba(217, 186, 206, 1) 50%);
+}
+.sfondoschede
+{
+    background-color: rgb(238, 234, 235);
 }
